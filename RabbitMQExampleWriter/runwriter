@@ -1,0 +1,1 @@
+java -jar dist/RabbitMQExampleWriter.jar -m 5200 -i 100 -v
